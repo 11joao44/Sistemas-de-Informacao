@@ -10,7 +10,7 @@ Nos últimos anos, a NewRoupasNet vem passando por um processo de digitalizaçã
 
 Seu faturamento anual gira em torno de **R$ 30 milhões**, com previsão de crescimento de 12% no próximo ano. Para atingir esse objetivo, a empresa tem investido fortemente na **modernização de seus sistemas de informação** e na adoção de tecnologias que melhorem a experiência do cliente e a produtividade interna.
 
-Como administradora de sistemas de informação da rede de lojas **NewRoupasNet**, reconheço que os **sistemas de informação (SI)** são fundamentais para a continuidade e o sucesso das operações nas lojas. Esses sistemas fornecem dados e insights valiosos que ajudam os **gerentes a tomarem decisões mais rápidas, assertivas e estratégicas**, impactando diretamente na eficiência e competitividade da empresa.
+Como administrador de sistemas de informação da rede de lojas **NewRoupasNet**, reconheço que os **sistemas de informação (SI)** são fundamentais para a continuidade e o sucesso das operações nas lojas. Esses sistemas fornecem dados e insights valiosos que ajudam os **gerentes a tomarem decisões mais rápidas, assertivas e estratégicas**, impactando diretamente na eficiência e competitividade da empresa.
 
 ## 🧠 Decisões como Administrador de Sistemas de Informação que pode auxiliar o gerente da loja:
 
@@ -30,7 +30,7 @@ Como administradora de sistemas de informação da rede de lojas **NewRoupasNet*
 
 No cenário atual da NewRoupasNet, as vendas ainda são registradas manualmente e posteriormente repassadas para o controle de estoque, o que gera atrasos, falhas de registro e perda de dados importantes. Isso prejudica a reposição de mercadorias, o acompanhamento de metas e a análise de desempenho dos produtos.
 
-Como Administradora de Sistemas de Informação, compreendo que meu papel é garantir a eficiência e a confiabilidade dos dados gerados pelas vendas, integrando-os aos demais sistemas da empresa (como estoque, financeiro e CRM). É essencial que esse controle seja feito por meio de um **sistema de PDV (Ponto de Venda) automatizado e integrado**.
+Como Administrador de Sistemas de Informação, compreendo que meu papel é garantir a eficiência e a confiabilidade dos dados gerados pelas vendas, integrando-os aos demais sistemas da empresa (como estoque, financeiro e CRM). É essencial que esse controle seja feito por meio de um **sistema de PDV (Ponto de Venda) automatizado e integrado**.
 
 ### 🔧 Requisitos essenciais para o sistema:
 - Registro automático de cada venda (produto, valor, horário, vendedor, forma de pagamento);
@@ -56,7 +56,7 @@ Como Administradora de Sistemas de Informação, compreendo que meu papel é gar
 
 Na NewRoupasNet, o crescimento das lojas e o aumento do número de colaboradores exige um controle mais eficiente da jornada de trabalho, produtividade e integração com o setor de folha de pagamento. Processos manuais estão sujeitos a erros, atrasos e conflitos trabalhistas, além de dificultar a análise do desempenho por loja ou colaborador.
 
-Como Administradora de Sistemas de Informação, compreendo que minha função é garantir a adoção de sistemas que tornem o processo de RH mais seguro, digital e integrado — sem sobrecarregar o time de desenvolvimento interno ou comprometer a agilidade nas rotinas do setor.
+Como Administrador de Sistemas de Informação, compreendo que minha função é garantir a adoção de sistemas que tornem o processo de RH mais seguro, digital e integrado — sem sobrecarregar o time de desenvolvimento interno ou comprometer a agilidade nas rotinas do setor.
 
 > 💡 **Meu insight:** O mercado de SaaS para soluções de RH está bastante maduro, com ferramentas robustas e específicas para o cenário brasileiro. Por isso, optei por uma solução terceirizada que atenda às demandas de controle de ponto, produtividade e integração com folha de pagamento, contando com suporte técnico especializado para resolver rapidamente qualquer problema.
 
@@ -74,14 +74,14 @@ Como Administradora de Sistemas de Informação, compreendo que minha função �
 
 ### 🛍️ 4. Relacionamento com o Cliente
 
-O relacionamento com o cliente na NewRoupasNet vai além do atendimento. Envolve a forma como os dados são coletados, organizados, utilizados e protegidos. A atuação como Administradora de Sistemas de Informação é essencial para garantir que os sistemas envolvidos — CRM, canais de atendimento, automações e integrações — funcionem de forma conectada, eficiente e segura.
+O relacionamento com o cliente na NewRoupasNet vai além do atendimento. Envolve a forma como os dados são coletados, organizados, utilizados e protegidos. A atuação como Administrador de Sistemas de Informação é essencial para garantir que os sistemas envolvidos — CRM, canais de atendimento, automações e integrações — funcionem de forma conectada, eficiente e segura.
 
 
 #### 📁 4.1 CRM e Centralização de Dados
 
 A NewRoupasNet já possui um sistema de CRM, mas atualmente sua utilização é limitada e pouco eficaz. Ele não se comunica de forma eficiente com outros sistemas da empresa, como o PDV, site ou canais de atendimento. Além disso, não oferece os recursos de análise ou segmentação que permitiriam campanhas mais estratégicas e um relacionamento mais personalizado com os clientes.
 
-Como Administradora de Sistemas de Informação, analisei a situação junto aos setores envolvidos e identifiquei que o ideal seria desenvolver um novo CRM interno, em colaboração com a equipe de TI e desenvolvimento da empresa.
+Como Administrador de Sistemas de Informação, analisei a situação junto aos setores envolvidos e identifiquei que o ideal seria desenvolver um novo CRM interno, em colaboração com a equipe de TI e desenvolvimento da empresa.
 
 > 💡 **Meu insight:** Ao optar por desenvolver um CRM próprio, ganhamos total controle sobre os dados, fluxos e integrações com os demais sistemas. Podemos modelar o CRM de acordo com as reais necessidades do nosso nicho (varejo de moda), incluindo funcionalidades como histórico de compras por cliente, segmentação por tipo de produto, ações sazonais e integração com campanhas.
 
@@ -99,7 +99,7 @@ Como Administradora de Sistemas de Informação, analisei a situação junto aos
 
 Na NewRoupasNet, diversos sistemas convivem no dia a dia da operação: vendas, estoque, atendimento, financeiro, marketing, entre outros. Para que a empresa funcione de forma integrada, é essencial que os dados fluam entre esses setores de maneira segura, controlada e inteligente.
 
-Como Administradora de Sistemas de Informação, compreendi que meu papel não está na criação direta das APIs, mas sim no **mapeamento das necessidades entre setores**, na **organização dos fluxos de dados** e na **definição dos acessos conforme a criticidade da informação**. O objetivo é garantir que **apenas os dados necessários estejam disponíveis para cada área**, respeitando critérios de segurança, confidencialidade e eficiência.
+Como Administrador de Sistemas de Informação, compreendi que meu papel não está na criação direta das APIs, mas sim no **mapeamento das necessidades entre setores**, na **organização dos fluxos de dados** e na **definição dos acessos conforme a criticidade da informação**. O objetivo é garantir que **apenas os dados necessários estejam disponíveis para cada área**, respeitando critérios de segurança, confidencialidade e eficiência.
 
 > 💡 **Meu insight:** As APIs devem ser tratadas como interfaces estratégicas que organizam o tráfego de informações da empresa. Além de evitar acessos diretos e desnecessários ao banco de dados, elas permitem definir exatamente o que será compartilhado entre setores e com que nível de permissão — o que é essencial para evitar vazamentos, sobrecarga e perda de controle sobre os dados.
 
@@ -117,7 +117,7 @@ Como Administradora de Sistemas de Informação, compreendi que meu papel não e
 
 Na NewRoupasNet, diversos processos operacionais e de atendimento ao cliente ainda são realizados manualmente. Isso impacta diretamente a produtividade das equipes e a experiência do cliente. A automação surge como uma forma de **ganhar eficiência, reduzir erros humanos e liberar os colaboradores para tarefas mais estratégicas**.
 
-Como Administradora de Sistemas de Informação, compreendo que meu papel está em **mapear os fluxos de processos manuais** e identificar onde a tecnologia pode ser aplicada para automatizar tarefas — seja internamente, entre setores, ou externamente, no contato direto com os clientes. Minha atuação envolve **avaliar ferramentas, viabilizar integrações e garantir que essas automações sejam seguras, escaláveis e bem implementadas**.
+Como Administrador de Sistemas de Informação, compreendo que meu papel está em **mapear os fluxos de processos manuais** e identificar onde a tecnologia pode ser aplicada para automatizar tarefas — seja internamente, entre setores, ou externamente, no contato direto com os clientes. Minha atuação envolve **avaliar ferramentas, viabilizar integrações e garantir que essas automações sejam seguras, escaláveis e bem implementadas**.
 
 > 💡 **Meu insight:** A automação precisa ser pensada como um componente estratégico. Internamente, ela pode acelerar tarefas repetitivas como geração de relatórios, atualizações de cadastro e sincronização entre sistemas. Externamente, soluções como chatbots e URAs podem reduzir o tempo de atendimento, oferecer autoatendimento 24h e centralizar dados importantes no CRM da empresa.
 
@@ -134,7 +134,7 @@ Como Administradora de Sistemas de Informação, compreendo que meu papel está 
 
 A NewRoupasNet lida com uma grande quantidade de dados pessoais e sensíveis de seus clientes, colaboradores e fornecedores. No entanto, a adoção de práticas consistentes de proteção de dados ainda está em fase inicial, como ocorre em muitas empresas brasileiras. Nesse cenário, a LGPD (Lei Geral de Proteção de Dados) traz exigências que impactam diretamente os sistemas de informação e os processos internos.
 
-Como Administradora de Sistemas de Informação, reconheço que meu papel vai além da tecnologia: também preciso **atuar como agente de orientação e conscientização**, apoiando o RH e os líderes de setores no entendimento das responsabilidades de cada colaborador no tratamento de dados pessoais.
+Como Administrador de Sistemas de Informação, reconheço que meu papel vai além da tecnologia: também preciso **atuar como agente de orientação e conscientização**, apoiando o RH e os líderes de setores no entendimento das responsabilidades de cada colaborador no tratamento de dados pessoais.
 
 > 💡 **Meu insight:** A LGPD não se resume a uma função jurídica ou técnica. Todos os setores da empresa precisam compreender seu papel na proteção dos dados que manipulam. Cabe a mim garantir que os sistemas adotados estejam em conformidade com os princípios da lei, e que os fluxos de dados sejam claros, seguros e rastreáveis.
 
@@ -151,7 +151,7 @@ Como Administradora de Sistemas de Informação, reconheço que meu papel vai al
 
 ### 📈 5. Planejamento e Tomada de Decisão Estratégica
 
-Como Administradora de Sistemas de Informação, também tenho o papel de garantir que os dados armazenados e processados pelos sistemas da NewRoupasNet gerem valor estratégico. Isso inclui apoiar os gestores na geração de relatórios automatizados, dashboards interativos e ferramentas de simulação baseadas em dados históricos. Esses recursos permitem tomar decisões mais rápidas, baseadas em evidências, e antever tendências de consumo, comportamento de estoque e desempenho por loja.
+Como Administrador de Sistemas de Informação, também tenho o papel de garantir que os dados armazenados e processados pelos sistemas da NewRoupasNet gerem valor estratégico. Isso inclui apoiar os gestores na geração de relatórios automatizados, dashboards interativos e ferramentas de simulação baseadas em dados históricos. Esses recursos permitem tomar decisões mais rápidas, baseadas em evidências, e antever tendências de consumo, comportamento de estoque e desempenho por loja.
 
 > 💡 **Meu insight:** Sistemas bem integrados e com boa estrutura de dados fornecem a base para decisões mais confiáveis. Automatizar relatórios e simulações reduz a dependência de planilhas manuais e aumenta a inteligência da operação.
 
