@@ -180,3 +180,5 @@ Como Administradora de Sistemas de Informação, também tenho o papel de garant
 ---
 
 > **Conclusão:** O uso inteligente dos sistemas de informação na NewRoupasNet transforma dados em decisões estratégicas. Isso garante não apenas a eficiência das operações, mas também uma posição de destaque no mercado, com vantagem competitiva em **custo**, **qualidade** e **produtividade**.
+
+> ⚠️ **Nota pessoal:** Parte da construção deste desafio contou com o uso de ferramentas de inteligência artificial como apoio para estruturar ideias e validar decisões. Mas o conteúdo final foi elaborado com base na minha compreensão e lógica do tema, respeitando meu papel como estudante e futura profissional da área.
